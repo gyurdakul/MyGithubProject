@@ -13,6 +13,10 @@ public class AtmApp {
         //gkn1
         System.out.println("");
         //gkn3
+        if (6<5){
+
+        }
+
 
 
     }
