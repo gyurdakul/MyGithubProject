@@ -12,5 +12,6 @@ public class AtmApp {
         System.out.println("yeni branch olusturuldu");
         //gkn1
 
+
     }
 }
