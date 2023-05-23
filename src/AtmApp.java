@@ -9,6 +9,8 @@ public class AtmApp {
         //version3
         System.out.println("Java ogrenmek cok kolay");
         //versiyon 4
+        System.out.println("yeni branch olusturuldu");
+        //gkn1
 
     }
 }
