@@ -14,10 +14,10 @@ public class AtmApp {
         System.out.println("");
         //gkn3
         if (6<5){
+            System.out.println("yanlis");
 
         }
-
-
+        // reöote yapıda degisiklik yaptim
 
     }
 }
